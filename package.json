@@ -1,0 +1,19 @@
+{
+  "name": "todo-frontend",
+  "version": "1.0.0",
+  "description": "front end for todo api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cheryl Lane",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.23.0",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
